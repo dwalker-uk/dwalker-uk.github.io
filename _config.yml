@@ -4,6 +4,9 @@ github_username: dwalker-uk
 markdown: kramdown
 theme: jekyll-theme-architect
 
+plugins:
+  - jekyll-readme-index
+
 author:
   name: "Dave Walker"
   bio: "..."
