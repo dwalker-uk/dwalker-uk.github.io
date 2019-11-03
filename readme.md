@@ -1,8 +1,3 @@
----
-layout: default
-author_profile: true
----
+# Testing Markdown
 
-# Markdown Page
-
-Testing...
+Testing new GitHub Pages with Jekyll...
