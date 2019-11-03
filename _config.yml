@@ -1,1 +1,9 @@
+title: D Walker
+github_username: dwalker-uk
+
+markdown: kramdown
 theme: jekyll-theme-architect
+
+author:
+  name: "Dave Walker"
+  bio: "..."
